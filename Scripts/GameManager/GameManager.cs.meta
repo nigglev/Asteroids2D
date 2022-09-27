@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6a77f5f3e73bfc24792a6dd18c310f3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _spaceshipDisplay: {fileID: -5341231265208908385, guid: ac13db616a927a14f8b241470cd30a70, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

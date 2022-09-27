@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GamePrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: GamePrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2f1da73f44a21d94581d2bf6e65d8292
+  m_SerializeEntries:
+  - m_GUID: ac13db616a927a14f8b241470cd30a70
+    m_Address: Ship
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SpaceshipPlayer
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 500d21c052ed41c49bb9cd08c37f7434
+    m_Address: AsteroidBig
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AsteroidBig
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5780b0aac77647d40a8c10528dab6cd4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2ae5e7da0e7342943905cfe211768282, type: 2}
+    - {fileID: 11400000, guid: 5c74ae269b385aa49a193418394c68d9, type: 2}
